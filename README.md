@@ -7,3 +7,11 @@ curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master
 chmod +x config.sh
 ./config.sh name 23
 ```
+
+## INSTALL SERVER
+
+```bash
+curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master/server.sh
+chmod +x server.sh
+./server.sh
+```
