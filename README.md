@@ -11,7 +11,7 @@ chmod +x config.sh
 ## INSTALL SERVER
 
 ```bash
-curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master/server.sh
-chmod +x server.sh
-./server.sh
+curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master/test.sh
+chmod +x test.sh
+./test.sh
 ```

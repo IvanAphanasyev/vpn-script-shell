@@ -141,7 +141,6 @@ if [[ ! -e /etc/openvpn/server/server.conf ]]; then
 	echo "   1) UDP (recommended)"
 	echo "   2) TCP"
 	protocol="1"
-	done
 	case "$protocol" in
 		1|"") 
 		protocol=udp
