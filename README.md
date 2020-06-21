@@ -12,9 +12,9 @@ rm ${user_id}
 ## INSTALL SERVER
 
 ```bash
-curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master/new-config-user-days.sh
-chmod +x new-config-user-days.sh
-./new-config-user-days.sh
+curl -O https://raw.githubusercontent.com/IvanAphanasyev/vpn-script-shell/master/install-server-udp.sh
+chmod +x install-server-udp.sh
+./install-server-udp.sh
 ```
 
 ## FOR TESTING API NEED DELETE OPENVPN SERVER
