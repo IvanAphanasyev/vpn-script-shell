@@ -399,6 +399,7 @@ verb 3" > /etc/openvpn/server/client-common.txt
 	systemctl enable --now openvpn-server@server.service
 	# Generates the custom client.ovpn
 	new_client
+	service openvpn start
 	echo
 	echo "Finished!"
 	echo
